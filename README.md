@@ -11,13 +11,6 @@ An end-to-end emergency alert system bridging a **Wear OS smartwatch** running a
 
 ---
 
-## Demo
-
-![demo](media/demo.gif)
-> *Placeholder: Add a demo GIF to `media/demo.gif` demonstrating the smartwatch triggering SOS, the ESP32 activating its alert LED, the Telegram message dispatch, and clearing via capacitive touch.*
-
----
-
 ## Overview
 
 Traditional emergency distress beacons require conscious, precise manual button presses. This system implements wrist gesture recognition directly on a Wear OS smartwatch (tested on Galaxy Watch4).
