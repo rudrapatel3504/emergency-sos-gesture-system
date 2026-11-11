@@ -1,0 +1,26 @@
+# Gradle / Android
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Secrets and Keys
+*.jks
+*.keystore
+google-services.json
+config.h
+
+# Arduino / ESP32
+*.bin
+*.elf
+*.hex
+
+# OS & Temp
+*.tmp
+*.swp
+*~
